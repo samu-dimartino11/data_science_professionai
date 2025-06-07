@@ -1,7 +1,7 @@
 # Module 1 Project - Software for contact book
 [![Creato con Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/153VDk7jSXM53cQb4BPjz9EzibxLNCUMd?usp=sharing)
 
-This repository contains the .ipynb file developed for Module 1 - Programming with Python. The notebook is structured as follows:
+This folder contains the .ipynb file developed for Module 1 - Programming with Python. The notebook is structured as follows:
 
 1. Project Instructions:
 At the beginning of the notebook, you will find the instructions for the development of the project.
