@@ -10,7 +10,7 @@ At the beginning of the notebook, you will find the instructions for the develop
 Each part of the code is accompanied by explanatory text that provides context and comments on the logic and functionality of the code.
 
 3. Interactive Code:
-You can test the code just by opening it on Colab and just have fun by doing your experiments on it!\
+You can test the code just by opening it on Colab and just have fun by doing your experiments on it! Click the cta at the beginning of this file.\
 
 The project and all its contents are written in Italian.\
 The notebook is organized to ensure clarity and accessibility for anyone reviewing the project. Feel free to reach out if you have any questions or feedback :)
