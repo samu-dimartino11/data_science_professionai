@@ -1,4 +1,4 @@
-# Module 1 Project - Software for contact book
+# Module 1 Project - Management Software for a vegan store
 [![Creato con Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/153VDk7jSXM53cQb4BPjz9EzibxLNCUMd?usp=sharing)
 
 This folder contains the .ipynb file developed for Module 1 - Programming with Python. The notebook is structured as follows:
